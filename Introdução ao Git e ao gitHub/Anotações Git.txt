@@ -1,5 +1,3 @@
-Link para Download do Git: https://git-scm.com/downloads
-
 Objetos internos do GIT
 - Blobs
 - Trees

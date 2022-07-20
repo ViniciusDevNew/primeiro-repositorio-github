@@ -1,0 +1,123 @@
+Introdução ao pensamento computacional
+- Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador (não se resumindo somente a este).
+- Pensamento sistemático e eficiente - Formulação e resolução de problemas.
+
+4 Pilares do pensamento computacional 🔻
+- Decomposição.
+- Reconhecimento de padrões.
+- Abstração.
+- Design de algoritmos.
+
+Processo contínuo ⬆
+- Definir uma solução.
+- Testar a solução.
+- Aperfeiçoamento da solução encontrada.
+
+Competências através do pensamento computacional ⬆⬆
+- Pensamento sistemático.
+- Colaboração dentro da equipe.
+- Criatividade e design.
+- Facilitador.
+
+Habilidades complementares
+- Raciocínio lógico (treinamento): É uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema.
+	- Classificada em três grupos: Indução 🔸 Dedução 🔸 Abdução.
+- Aperfeiçoamento: A partir de uma solução, determinar pontos de melhora e refinamento.
+	- Encontrar soluções eficientes
+	- Otimizar processos
+	- Simplificar linhas de códigos
+	- Funções bem definidas
+
+🔶 Pilar: Decomposição
+- Dado um problema complexo, devemos quebra-lo em problemas menores. Portanto, problemas mais fáceis e gerenciáveis.
+
+🔶 Pilar: Padrões
+- Reconhecimento de padrões.
+	- Modelo base.
+	- Estrutura invariante.
+	- Repetição.
+- Similaridades e diferenças.
+- Graus de similaridas.
+- Grupos conhecidos x Grupos desconhecidos.
+
+🔶 Pilar: Abstração
+- Abstrair: Observar, um ou mais elementos, avaliando características e propriedades em separado.
+- Abstração: Processo intelectual de isolamento de um objeto da realidade.
+- Generalizar: Tornar algo geral, mais amplo, extensão.
+- Generalização: Na lógica, é a operação intelectual que consiste em reunir numa classe geral,  um conjunto de seres ou fenômenos similares.
+- Algoritmos de pesquisa e ordenação.
+	- Merge sort.
+	- Clusteting.
+	- Busca binária.
+- Tipos abstratos de dados.
+	- Árvore.
+	- Lista.
+	- Grafos.
+- Própria linguagem de programação.
+
+🔶 Pilar: Algoritmos
+- Não opera sozinho.
+- Instruções detalhadas.
+- Processo de resolução de problemas "step by step" (passo a passo), utilizando instruções.
+- Precisa ser entendido por humano e máquina.
+- Análise.
+	- Estudo e definição dos dados de entrada e saída.
+- Algoritmo.
+	- Descreve o problema por meio de ferramentas narrativas, fluxograma, ou pseudocódigo.
+- Codificação.
+	- O algoritmo é codificado de acordo com a linguagem de programação escolhida.
+- Algoritmos (Passos).
+	- Sequência de passos com objetivos definidos.
+	- Execução de tarefas específicas.
+	- Conjunto de operações que resultam em uma sucessão finita de ações.
+- Como construir um algoritmo?
+	- Compreensão do problema.
+	- Definição dados de entrada.
+	- Definir processamento.
+	- Definir dados de saída.
+	- Utilizar um método de construção.
+	- Teste e diagnóstico.
+- Construção de algoritmos.
+	- Narrativa: Utilização da linguagem natural.
+	- Fluxograma: Utilização de símbolos pré-definidos.
+	- Pseudocódigo: Portugol (regras bem definidas).
+
+Introdução à lógica de programação.
+- Lógica: Parte da filosofia que trata das formas do pensamento em geral (dedução, indução, hipótese, inferência, etc.) e das operações intelectuais que visam à determinação do que é verdadeiro ou não.
+- Problema: Problema é uma questão que foge a uma determinada regra, ou melhor é um desvio de percurso, o qual impede de atingir um objetivo com eficiência e eficácia.
+
+Técnicas de lógica de programação.
+- Técnica linear.
+- Técnica estruturada.
+- Técnica modular.
+
+Fundamentos de Algoritmos.
+- Instruções primitivas.
+	- Definição formal: Instruções são linguagem de palavras-chave (vocabulário) de uma determinada programação que tem por finalidade comandar um computador que irá tratar os dados.
+
+Estruturas condicionais e operadores.
+- NÃO APLICADO
+
+Estruturas de repetição.
+- NÃO APLICADO
+
+Vetores e matrizes.
+- Definição formal Vetores: Um vetor é caracterizado por uma variável dimensionada com tamanho pré-fixado.
+- Definição formal Matrizes: Matriz é uma tabela organizada em linhas e colunas no formato  m x n, onde m representa o número de linhas (horizontal) e n o número de colunas (vertical). 
+	- Coleção de variáveis.
+	- Contiguas em memória.
+	- Índices.
+
+Função.
+- Definição formal: São blocos de instruções (código), identificados por nomes e parâmetros.
+	- Definição.
+	- Nome.
+	- Invocação.
+	- Variável local.
+
+Características de um programa.
+- Desenvolvimento de programas.
+	- Legibilidade.
+	- Redigibilidade.
+	- Confiabilidade.
+	- Custo.

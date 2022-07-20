@@ -1,0 +1,14 @@
+Metodologia de Bootcamp
+- Campo de treinamento (aprendizagem imersiva e acelerada).
+
+FullStack
+- O que é?
+- É um profissional multitarefa, que consegue transitar entre projetos de desenvolvimento Front-End e Back-End.
+
+Front-End
+- O que é visível.
+- Tudo aquilo que vemos em um site, que interagimos, tudo que é visual. Está na FRENTE;
+
+Back-End
+- O que está por trás.
+- Está ligado ao banco de dados. Quando buscamos algo na internet, por exemplo, essa informação é dada para o banco de dados e retorna como a resposta da sua pesquisa. Está ATRÁS;
