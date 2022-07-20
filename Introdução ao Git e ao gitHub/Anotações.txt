@@ -1,0 +1,21 @@
+Link para Download do Git: https://git-scm.com/downloads
+
+Objetos internos do GIT
+- Blobs
+- Trees
+- Commits
+
+Chave SSH
+- O SSH (Secure Shell), também conhecido como Secure Socket Shell, é um protocolo que permite a conexão com servidores remotos, de forma criptografada e mais segura, usando um par de chaves RSA.
+
+Comandos Git
+- cd: Alterando diretórios
+- cd .. : Retornando ao diretório anterior
+- ls: Listar coisas em uma pasta.
+- git init
+- git status
+- git config --list : Revelar as configurações do git
+- git remote add origin
+- mkdir : Criar um repositório
+- crtl + l : limpar
+- git clone
